@@ -1,7 +1,6 @@
 import { Comment } from "./Comment";
 import styles from "./Post.module.css";
 
-
 export function Post() {
   return (
     <article className={styles.post}>
@@ -14,7 +13,7 @@ export function Post() {
           />
           <div className={styles.authorInfo}>
             <strong>Filipe Dias</strong>
-            <strong>Web Developer</strong>
+            <span>Web Developer</span>
           </div>
         </div>
 
