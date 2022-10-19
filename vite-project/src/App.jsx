@@ -3,9 +3,9 @@
  * tem que ser o mesmo aqui no import { Button }.
  */
 
-import { Header } from "../../components/Header";
-import { Post } from "../../components/Post";
-import { Sidebar } from "../../components/Sidebar";
+import { Header } from "./components/Header";
+import { Post } from "./components/Post";
+import { Sidebar } from "./components/Sidebar";
 
 /* Css arquivo App.module.css */
 import styles from "./App.module.css";
