@@ -20,17 +20,6 @@ Projeto página de feed para os usúarios acompanhar novos artigos de desenvolvi
 
 HTML / CSS / JavaScript / React / Vite
 
-### Status:
-
-Em construção: 
-
-- useState;
-- keys;
-- onClick;
-- onSubmit;
-- tostring;
-- intl datetimeformat ( formatação de data ).
-
 ### Author:
 
 Filipe Dias
